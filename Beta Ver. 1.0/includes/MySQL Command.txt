@@ -1,0 +1,5 @@
+
+oracle904/tag_index
+
+タグの値が増えすぎた時に減少させるコマンド
+update tag_index set index_count = index_count - 任意の数値 where tag = 'タグ名';
