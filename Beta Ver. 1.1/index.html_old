@@ -1,0 +1,43 @@
+<!--
+ * A Design by GraphBerry
+ * Author: GraphBerry
+ * Author URL: http://graphberry.com
+ * License: http://graphberry.com/pages/license
+-->
+<!DOCTYPE html>
+<html>
+<head>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<title>Coming soon by Oracle904</title>
+	<link href="css/style.css" rel="stylesheet">
+	<link href="css/icons.css" rel="stylesheet">
+	<link href='http://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
+	<link rel="shortcut icon" href="/favicon.ico">
+	<link rel="apple-touch-icon" href="/images/favicon.png" />
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:site" content="A Bird">
+	<meta name="twitter:creator" content="@Ajaku_PSO2">
+	<meta name="twitter:title" content="Coming soon by Oracle904">
+	<meta name="twitter:description" content="oops! Wait a little more.Oracle 904 is a site created from the desire to share your SS with others. Ideal for backing up important data!">
+	<meta name="twitter:image" content="http://oracle904.luna.ddns.vc/images/come.png">
+</head>
+<body>
+<div class="background">
+	<div class="wrapper">
+		<div class="logo">
+			<img src="images/logo.png" alt="Oracle904 logo">
+		</div>
+		</div>
+		</div>
+		<h1>Comming soon!</h1>
+		<h2>Started service from 2016/12/18</h2>
+		<ul class="social">
+			<li><a href="https://twitter.com/Ajaku_PSO2"><i class="icon-twitter-1"></i></a></li>
+			
+		</ul>
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+	<script type="text/javascript" src="js/jquery.downCount.js"></script>
+	<script type="text/javascript" src="js/app.js"></script>
+</body>
+</html>
